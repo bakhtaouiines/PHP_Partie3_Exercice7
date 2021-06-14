@@ -12,7 +12,9 @@
     <?php
     for($firstNumber = 1; $firstNumber <=100; $firstNumber+=15)
     {
-        echo ('On tient le bon bout! ');
+        echo 'On tient le bon bout!';?>
+        <br>
+    <?php
     }
     ?>
     </p>
